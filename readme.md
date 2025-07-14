@@ -34,4 +34,32 @@
 ## 更多功能
 
 ![](images/eventlist.webp)
+- 多样比赛，不同规则
+- 丰厚奖金，等你来拿
+- 收藏感兴趣的活动
 
+![](images/leaderboard.webp)
+- 排名系统
+- 比赛过程中实时更新匿名数据
+- 获取奖励Points
+
+![](images/roomlist.webp)
+- 私人房间，支持教学/研究或私人活动
+- 与好友一起参与
+
+![](images/diy.webp)
+- 创建属于自己的房间
+- 为新的活动提出建议
+
+![](images/news.webp)
+- 新闻与消息
+- 更新通知
+- 公告与留言板
+
+![](images/exchange.webp)
+- 使用奖励Points换取活动Points
+- 邀请好友获取奖励Points
+
+## 联系我们
+微信号：tradeulike
+邮箱：tradeulike@gmail.com
