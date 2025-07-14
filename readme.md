@@ -59,20 +59,28 @@
 - 比赛过程中实时更新匿名数据
 - 获取奖励Points
 
-![](images/roomlist.webp)
+<div align="center">
+    <img src="images/roomlist.webp" width="50%">
+</div>
 - 私人房间，支持教学/研究或私人活动
 - 与好友一起参与
 
-![](images/diy.webp)
+<div align="center">
+    <img src="images/diy.webp" width="50%">
+</div>
 - 创建属于自己的房间
 - 为新的活动提出建议
 
-![](images/news.webp)
+<div align="center">
+    <img src="images/news.webp" width="50%">
+</div>
 - 新闻与消息
 - 更新通知
 - 公告与留言板
 
-![](images/exchange.webp)
+<div align="center">
+    <img src="images/exchange.webp" width="50%">
+</div>
 - 使用奖励Points换取活动Points
 - 邀请好友获取奖励Points
 
