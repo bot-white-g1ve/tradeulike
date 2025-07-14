@@ -1,7 +1,9 @@
+![](images/logo.png)
+
 # TradeULike 交易客
 一个使用特殊规则模拟股市、并与真实用户交易的社区。
 
-![](images/main.webp)
+<img src="images/main.webp" width="50%">
 
 ## 使用/运行
 请前往[tradeulike.com](https://tradeulike.com)使用
