@@ -1,9 +1,13 @@
-![](images/logo.png)
+<div align="center">
+    <img src="images/logo.png" width="25%" >
+</div>
 
 # TradeULike 交易客
 一个使用特殊规则模拟股市、并与真实用户交易的社区。
 
-<img src="images/main.webp" width="50%">
+<div align="center">
+    <img src="images/main.webp" width="50%">
+</div>
 
 ## 使用/运行
 请前往[tradeulike.com](https://tradeulike.com)使用
@@ -19,7 +23,11 @@
 - 比赛房间
 想要用模拟市场支持您的教学、研究或活动？您可以在我们的网站创建比赛房间。
 
-[活动页面](https://tradeulike.com/event) [活动列表页面](https://tradeulike.com/eventlist) [公告页面](https://tradeulike.com/news)
+[活动页面](https://tradeulike.com/event)
+
+[活动列表页面](https://tradeulike.com/eventlist)
+
+[公告页面](https://tradeulike.com/news)
 
 ## 详细介绍
 在某所大学的课堂上，教授让每位学生报出一个0到100之间的数字。最终，报出的数字最接近“全班平均值的一半”的同学，将获得100美元奖励。显而易见，平均值大约是50，那么一半就是25。但如果每个人都这么想，大家都会报25左右，平均值的一半又会变成12.5。继续推理下去，合理的数字会不断降低，最终趋近于0。但在真实市场中，每个人的理性程度不同，没有人能完全预测他人的选择，在这个课堂上，又有多少人真的会选择报出0这个数字呢。
@@ -31,16 +39,22 @@
 真人玩家参与：在特殊的规则导向下，我们的网站不像其他模拟交易网站一样使用历史数据或模拟数据，你的每一笔买卖将真正地影响市场。
 股市模拟：买单、卖单、市价单、历史K线、折线图、K线图...，应有尽有，更多的功能还在一步步上线。
 
-![](images/event.webp)
+<div align="center">
+    <img src="images/event.webp" width="50%">
+</div>
 
 ## 更多功能
 
-![](images/eventlist.webp)
+<div align="center">
+    <img src="images/eventlist.webp" width="50%">
+</div>
 - 多样比赛，不同规则
 - 丰厚奖金，等你来拿
 - 收藏感兴趣的活动
 
-![](images/leaderboard.webp)
+<div align="center">
+    <img src="images/leaderboard.webp" width="50%">
+</div>
 - 排名系统
 - 比赛过程中实时更新匿名数据
 - 获取奖励Points
