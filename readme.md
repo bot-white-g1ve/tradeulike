@@ -48,6 +48,7 @@
 <div align="center">
     <img src="images/eventlist.webp">
 </div>
+
 - 多样比赛，不同规则
 
 - 丰厚奖金，等你来拿
@@ -57,6 +58,7 @@
 <div align="center">
     <img src="images/leaderboard.webp">
 </div>
+
 - 排名系统
 
 - 比赛过程中实时更新匿名数据
@@ -66,6 +68,7 @@
 <div align="center">
     <img src="images/roomlist.webp">
 </div>
+
 - 私人房间，支持教学/研究或私人活动
 
 - 与好友一起参与
@@ -73,6 +76,7 @@
 <div align="center">
     <img src="images/diy.webp">
 </div>
+
 - 创建属于自己的房间
 
 - 为新的活动提出建议
@@ -80,6 +84,7 @@
 <div align="center">
     <img src="images/news.webp">
 </div>
+
 - 新闻与消息
 
 - 更新通知
@@ -89,6 +94,7 @@
 <div align="center">
     <img src="images/exchange.webp">
 </div>
+
 - 使用奖励Points换取活动Points
 
 - 邀请好友获取奖励Points
