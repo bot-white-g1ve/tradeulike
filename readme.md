@@ -1,12 +1,12 @@
 <div align="center">
-    <img src="images/logo.png" width="25%" >
+    <img src="images/logo.png" width="50%" >
 </div>
 
 # TradeULike 交易客
 一个使用特殊规则模拟股市、并与真实用户交易的社区。
 
 <div align="center">
-    <img src="images/main.webp" width="50%">
+    <img src="images/main.webp">
 </div>
 
 ## 使用/运行
@@ -35,7 +35,7 @@
 股市、债券、通货、加密货币，很多市场都有这样的特点：在完全理性的环境下，价格和市场变化是可分析可推导的，但实际市场中，所有的结果都是不可预测的。
 
 <div align="center">
-    <img src="images/event.webp" width="50%">
+    <img src="images/event.webp">
 </div>
 
 我们使用一种新颖的方式设计交易，模拟股市、债券、通货、加密货币等市场：
@@ -46,42 +46,51 @@
 ## 更多功能
 
 <div align="center">
-    <img src="images/eventlist.webp" width="50%">
+    <img src="images/eventlist.webp">
 </div>
 - 多样比赛，不同规则
+
 - 丰厚奖金，等你来拿
+
 - 收藏感兴趣的活动
 
 <div align="center">
-    <img src="images/leaderboard.webp" width="50%">
+    <img src="images/leaderboard.webp">
 </div>
 - 排名系统
+
 - 比赛过程中实时更新匿名数据
+
 - 获取奖励Points
 
 <div align="center">
-    <img src="images/roomlist.webp" width="50%">
+    <img src="images/roomlist.webp">
 </div>
 - 私人房间，支持教学/研究或私人活动
+
 - 与好友一起参与
 
 <div align="center">
-    <img src="images/diy.webp" width="50%">
+    <img src="images/diy.webp">
 </div>
 - 创建属于自己的房间
+
 - 为新的活动提出建议
 
 <div align="center">
-    <img src="images/news.webp" width="50%">
+    <img src="images/news.webp">
 </div>
 - 新闻与消息
+
 - 更新通知
+
 - 公告与留言板
 
 <div align="center">
-    <img src="images/exchange.webp" width="50%">
+    <img src="images/exchange.webp">
 </div>
 - 使用奖励Points换取活动Points
+
 - 邀请好友获取奖励Points
 
 ## 联系我们
